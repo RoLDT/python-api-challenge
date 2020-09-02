@@ -1,6 +1,6 @@
-VacationPy\config.py
+VacationPy/config.py
 
-WeatherPy\config.py
+WeatherPy/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
